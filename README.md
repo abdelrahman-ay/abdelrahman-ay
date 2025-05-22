@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Gyroscope Wireless Gamepad using Esp32**
 
-- 🌱 I’m currently learning **Embedded Software Engineering Diploma**
+- 🌱 I’m currently learning **Qt Quick Course**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/abdelrahman-ay)
 
-- 📫 How to reach me **abdelrahman20012016@gmail.com**
+- 📫 How to reach me [abdelrahman-ay@protonmail.com](mailto:abdelrahman-ay@protonmail.com)
 
-- 📄 Know about my experiences [here](https://github.com/abdelrahman-ay/abdelrahman-ay/blob/main/AbdelrahmanYasserSamir-CV-R9.pdf)
+- 📄 Know about my experiences [here](https://github.com/abdelrahman-ay/abdelrahman-ay/blob/main/AbdelrahmanYasserSamir-CV-R101.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
